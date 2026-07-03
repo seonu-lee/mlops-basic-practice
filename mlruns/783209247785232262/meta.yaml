@@ -1,0 +1,6 @@
+artifact_location: file:///app/mlruns/783209247785232262
+creation_time: 1783081705532
+experiment_id: '783209247785232262'
+last_update_time: 1783081705532
+lifecycle_stage: active
+name: iris-classification

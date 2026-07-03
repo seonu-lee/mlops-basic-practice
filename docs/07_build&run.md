@@ -115,7 +115,7 @@ docker run -v ${PWD}/mlruns:/app/mlruns mlops-practice
 ```markdown
 실행 순서 요약:
 
-1. 터미널 열기
+1. powershell 열기
 2. cd 명령어로 mlops-basic-practice 폴더로 이동
 3. docker build -t mlops-practice .   실행 → 이미지 생성
 4. docker run -v ... mlops-practice   실행 → 컨테이너 실행 + 학습
