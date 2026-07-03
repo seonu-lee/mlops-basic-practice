@@ -35,7 +35,7 @@ Dockerfile을 코드 에디터로 열어서 그 안에 입력하는 게 아니�
 ```
 
 ```powershell
-cd 경로\mlops-basic-practice
+cd C:\Users\seonu\Documents\mlops-basic-practice
 ```
 
 ```markdown
