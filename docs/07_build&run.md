@@ -121,6 +121,7 @@ docker run -v ${PWD}/mlruns:/app/mlruns mlops-practice
 4. docker run -v ... mlops-practice   실행 → 컨테이너 실행 + 학습
 5. 콘솔에 accuracy 로그 확인
 6. 이 화면 캡처 → docker-running.png로 저장
+7. train.py의 파라미터 바꿔가면서 빌드, 런 반복
 ```
 
 ---
