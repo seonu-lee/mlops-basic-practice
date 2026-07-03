@@ -74,6 +74,8 @@ mlops-basic-practice/
 - mlflow.sklearn.log_model() - 모델 아티팩트 저장
 ```
 
++ [윈도우 Docker Desktop 설치 가이드](https://hianna.tistory.com/1211)
+
 ### 5단계: 실험 반복
 ```markdown
 - 하이퍼파라미터 1개만 바꿔가며 2~3번 실행
