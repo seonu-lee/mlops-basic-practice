@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 # 1. 하이퍼파라미터 (실습 시 이 값만 바꿔가며 재실행)
-n_estimators = 50
+n_estimators = 100
 max_depth = 3
 
 # 2. 데이터 불러오기
