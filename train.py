@@ -19,6 +19,8 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # 4. MLflow run 시작
+mlflow.set_experiment("iris-classification")
+
 with mlflow.start_run():
 
     # 5. 모델 학습
