@@ -1,12 +1,11 @@
 # Docker + MLflow 하루 미니 실습 계획
 
-```markdown
+
 ## 실습 목표
 Docker로 실행 환경을 고정하고, MLflow로 간단한 분류 모델의 
 실험(파라미터·메트릭·모델)을 기록·비교하는 흐름을 하루 안에 경험한다.
 
 **최종 산출물**: mlops-basic-practice 레포 (Dockerfile, train.py, README, 스크린샷 2장)
-```
 
 ---
 
@@ -25,9 +24,8 @@ mlops-basic-practice/
 
 ---
 
-## 시간대별 흐름 (총 6~7시간 기준)
+## 시간대별 흐름 
 
-```markdown
 | 시간 | 단계 | 내용 |
 |---|---|---|
 | 1시간 | 환경 이해 | Docker 기본 개념(이미지/컨테이너) + MLflow 역할 이해 |
@@ -37,7 +35,7 @@ mlops-basic-practice/
 | 1시간 | 실험 2~3회 반복 | 하이퍼파라미터 바꿔가며 run 기록 |
 | 30분 | MLflow UI 확인 | 브라우저에서 run 비교, 스크린샷 촬영 |
 | 1시간 | README 작성 & 정리 | 실습 요약, 스크린샷 삽입, 회고 한 줄 |
-```
+
 
 ---
 
